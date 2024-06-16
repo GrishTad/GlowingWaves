@@ -3,7 +3,9 @@
 //  GlowingWaves
 //
 //  Created by Grisha Tadevosyan on 16.06.24.
-//
+//  Inspired by the GLSL shader Chromatic Resonance by Philippe Desgranges.
+//  GLSL source: https://www.shadertoy.com/view/tlySzm
+
 
 #include <metal_stdlib>
 using namespace metal;
