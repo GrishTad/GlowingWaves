@@ -1,11 +1,10 @@
-# Glowing Waves Metal aand SwiftUI experiment
+# Glowing Waves Metal and SwiftUI experiment
 
 
 This project is a SwiftUI application utilizing MetalKit, inspired by the GLSL shader Chromatic Resonance by Philippe Desgranges.
 GLSL source: https://www.shadertoy.com/view/tlySzm
 
-![App Screenshot](images/screenshot.jpeg)
-
+<img src="images/screenshot.jpeg" alt="App Screenshot" width="400"/>
 
 
 
